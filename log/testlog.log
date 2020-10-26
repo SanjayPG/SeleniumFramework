@@ -1,0 +1,58 @@
+2020-10-23 22:46:49,615 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-23 22:46:49,639 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-23 22:48:33,730 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-23 22:48:33,835 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-24 23:42:47,567 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-24 23:42:47,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-24 23:42:50,191 - java.lang.String -INFO - Browser Initialized
+2020-10-24 23:56:17,532 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-24 23:56:17,545 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-24 23:56:20,066 - java.lang.String -INFO - Browser Initialized
+2020-10-24 23:57:41,802 - java.lang.String -INFO - URL Opened
+2020-10-24 23:57:43,153 - java.lang.String -INFO - Excel util Initialized
+2020-10-25 01:45:07,264 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-25 01:45:07,283 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-25 01:45:09,732 - java.lang.String -INFO - Browser Initialized
+2020-10-25 01:45:46,965 - java.lang.String -INFO - URL Opened
+2020-10-25 01:45:48,181 - java.lang.String -INFO - Excel util Initialized
+2020-10-25 01:45:48,248 - java.lang.String -INFO - Home page opened
+2020-10-25 18:06:30,382 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-25 18:06:30,458 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-25 18:06:53,566 - java.lang.String -INFO - Browser Initialized
+2020-10-25 18:07:29,824 - java.lang.String -INFO - URL Opened
+2020-10-25 18:07:51,083 - java.lang.String -INFO - Excel util Initialized
+2020-10-25 18:09:09,430 - java.lang.String -INFO - Home page opened
+2020-10-25 18:13:45,963 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-25 18:13:45,980 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-25 18:13:48,548 - java.lang.String -INFO - Browser Initialized
+2020-10-25 18:14:08,838 - java.lang.String -INFO - URL Opened
+2020-10-25 18:14:10,174 - java.lang.String -INFO - Excel util Initialized
+2020-10-25 18:14:10,289 - java.lang.String -INFO - Home page opened
+2020-10-25 18:14:13,902 - java.lang.String -INFO - Login successfull
+2020-10-25 18:22:50,054 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-25 18:22:50,068 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-25 18:22:52,652 - java.lang.String -INFO - Browser Initialized
+2020-10-25 18:23:03,644 - java.lang.String -INFO - URL Opened
+2020-10-25 18:23:04,964 - java.lang.String -INFO - Excel util Initialized
+2020-10-25 18:23:05,068 - java.lang.String -INFO - Home page opened
+2020-10-25 18:23:07,675 - java.lang.String -INFO - Login successfull
+2020-10-26 00:24:54,167 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-26 00:24:54,188 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-26 00:24:56,719 - java.lang.String -INFO - Browser Initialized
+2020-10-26 00:26:54,362 - java.lang.String -INFO - URL Opened
+2020-10-26 00:26:55,612 - java.lang.String -INFO - Excel util Initialized
+2020-10-26 00:26:55,688 - java.lang.String -INFO - Home page opened
+2020-10-26 00:27:10,352 - java.lang.String -INFO - Login successfull
+2020-10-26 00:29:48,452 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-26 00:29:48,483 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-26 00:29:51,045 - java.lang.String -INFO - Browser Initialized
+2020-10-26 00:30:08,648 - java.lang.String -INFO - URL Opened
+2020-10-26 14:16:01,334 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-26 14:16:01,347 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-26 14:16:03,806 - java.lang.String -INFO - Browser Initialized
+2020-10-26 14:21:03,956 - java.lang.String -INFO - Home page opened
+2020-10-26 19:20:47,853 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-26 19:20:47,870 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\ramdas.prabhudesai\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-26 19:20:50,402 - java.lang.String -INFO - Browser Initialized
+2020-10-26 19:22:30,868 - java.lang.String -INFO - URL Opened
+2020-10-26 19:22:32,114 - java.lang.String -INFO - Excel util Initialized
