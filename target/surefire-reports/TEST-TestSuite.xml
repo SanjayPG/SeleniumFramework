@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="27.968" tests="2" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\sanjay.pg\git\SeleniumFramework\target\test-classes;C:\Users\sanjay.pg\git\SeleniumFramework\target\classes;C:\Users\sanjay.pg\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\sanjay.pg\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar;C:\Users\sanjay.pg\.m2\repository\org\slf4j\slf4j-log4j12\1.7.5\slf4j-log4j12-1.7.5.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\sanjay.pg\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\sanjay.pg\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\sanjay.pg\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\sanjay.pg\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\sanjay.pg\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\sanjay.pg\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\sanjay.pg\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\sanjay.pg\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\sanjay.pg\.m2\repository\net\sourceforge\jexcelapi\jxl\2.6.12\jxl-2.6.12.jar;C:\Users\sanjay.pg\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\8.4.1.jre14\mssql-jdbc-8.4.1.jre14.jar;C:\Users\sanjay.pg\.m2\repository\io\github\bonigarcia\webdrivermanager\4.1.0\webdrivermanager-4.1.0.jar;C:\Users\sanjay.pg\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\sanjay.pg\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\commons\commons-lang3\3.10\commons-lang3-3.10.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\sanjay.pg\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\sanjay.pg\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\sanjay.pg\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-java\6.8.1\cucumber-java-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-core\6.8.1\cucumber-core-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-gherkin\6.8.1\cucumber-gherkin-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.8.1\cucumber-gherkin-messages-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\messages\13.1.0\messages-13.1.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\tag-expressions\3.0.0\tag-expressions-3.0.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-plugin\6.8.1\cucumber-plugin-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\docstring\6.8.1\docstring-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\html-formatter\9.0.0\html-formatter-9.0.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\create-meta\2.0.2\create-meta-2.0.2.jar;C:\Users\sanjay.pg\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-jvm-deps\1.0.6\cucumber-jvm-deps-1.0.6.jar;C:\Users\sanjay.pg\.m2\repository\org\testng\testng\6.13.1\testng-6.13.1.jar;C:\Users\sanjay.pg\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-testng\6.8.1\cucumber-testng-6.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="UTC"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\java\jdk1.8.0_221\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\sanjay.pg\AppData\Local\Temp\surefire1164927300374537046\surefirebooter1231031695543737150.jar C:\Users\sanjay.pg\AppData\Local\Temp\surefire1164927300374537046 2020-10-26T18-23-41_368-jvmRun1 surefire7592898167832299124tmp surefire_02982637662471349525tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\sanjay.pg\git\SeleniumFramework\target\test-classes;C:\Users\sanjay.pg\git\SeleniumFramework\target\classes;C:\Users\sanjay.pg\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\sanjay.pg\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar;C:\Users\sanjay.pg\.m2\repository\org\slf4j\slf4j-log4j12\1.7.5\slf4j-log4j12-1.7.5.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\sanjay.pg\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\sanjay.pg\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\sanjay.pg\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\sanjay.pg\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\sanjay.pg\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\sanjay.pg\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\sanjay.pg\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\sanjay.pg\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\sanjay.pg\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\sanjay.pg\.m2\repository\net\sourceforge\jexcelapi\jxl\2.6.12\jxl-2.6.12.jar;C:\Users\sanjay.pg\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\8.4.1.jre14\mssql-jdbc-8.4.1.jre14.jar;C:\Users\sanjay.pg\.m2\repository\io\github\bonigarcia\webdrivermanager\4.1.0\webdrivermanager-4.1.0.jar;C:\Users\sanjay.pg\.m2\repository\commons-io\commons-io\2.7\commons-io-2.7.jar;C:\Users\sanjay.pg\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\commons\commons-lang3\3.10\commons-lang3-3.10.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.0.1\httpclient5-5.0.1.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.0.1\httpcore5-5.0.1.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.0.1\httpcore5-h2-5.0.1.jar;C:\Users\sanjay.pg\.m2\repository\commons-codec\commons-codec\1.13\commons-codec-1.13.jar;C:\Users\sanjay.pg\.m2\repository\org\rauschig\jarchivelib\1.0.0\jarchivelib-1.0.0.jar;C:\Users\sanjay.pg\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\sanjay.pg\.m2\repository\org\jsoup\jsoup\1.13.1\jsoup-1.13.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-java\6.8.1\cucumber-java-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-core\6.8.1\cucumber-core-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-gherkin\6.8.1\cucumber-gherkin-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-gherkin-messages\6.8.1\cucumber-gherkin-messages-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\messages\13.1.0\messages-13.1.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\tag-expressions\3.0.0\tag-expressions-3.0.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-expressions\10.3.0\cucumber-expressions-10.3.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\datatable\3.5.0\datatable-3.5.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-plugin\6.8.1\cucumber-plugin-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\docstring\6.8.1\docstring-6.8.1.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\html-formatter\9.0.0\html-formatter-9.0.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\create-meta\2.0.2\create-meta-2.0.2.jar;C:\Users\sanjay.pg\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-jvm-deps\1.0.6\cucumber-jvm-deps-1.0.6.jar;C:\Users\sanjay.pg\.m2\repository\org\testng\testng\6.13.1\testng-6.13.1.jar;C:\Users\sanjay.pg\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\sanjay.pg\.m2\repository\io\cucumber\cucumber-testng\6.8.1\cucumber-testng-6.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\sanjay.pg"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\java\jdk1.8.0_221\jre"/>
+    <property name="basedir" value="C:\Users\sanjay.pg\git\SeleniumFramework"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\sanjay.pg\AppData\Local\Temp\surefire1164927300374537046\surefirebooter1231031695543737150.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\java\jdk1.8.0_221\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_221-b11"/>
+    <property name="user.name" value="sanjay.pg"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\java\jdk1.8.0_221\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\sanjay.pg\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\sanjay.pg\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_221"/>
+    <property name="user.dir" value="C:\Users\sanjay.pg\git\SeleniumFramework"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\java\jdk1.8.0_221\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\sanjay.pg\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\java\jdk1.8.0_221\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\sanjay.pg\AppData\Local\Microsoft\WindowsApps;C:\Users\sanjay.pg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sanjay.pg\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\bin;C:\Users\sanjay.pg\.dotnet\tools;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.221-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\java\jdk1.8.0_221\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="runScenario" classname="runner.TestRunner" time="21.267">
+    <failure message="Hello admin! expected [Hello admin!] but found [Home Page not opened]" type="java.lang.AssertionError">java.lang.AssertionError: Hello admin! expected [Hello admin!] but found [Home Page not opened]
+</failure>
+    <system-out><![CDATA[
+Scenario: Check Login with correct username and password &amp#27;[90m# src/test/java/features/CucumberFeature.feature:4&amp#27;[0m
+ INFO [main] (WebDriverManager.java:573)- Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+ INFO [main] (WebDriverManager.java:882)- Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+ INFO [main] (Downloader.java:124)- Downloading https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip
+ INFO [main] (Downloader.java:178)- Extracting binary from compressed file chromedriver_win32.zip
+ INFO [main] (WebDriverManager.java:631)- Exporting webdriver.chrome.driver as C:\Users\sanjay.pg\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+ INFO [main] (TestInitialize.java:29)- Browser Initialized
+ INFO [main] (TestInitialize.java:31)- URL Opened
+ INFO [main] (LoginSteps.java:23)- Home page opened
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mI see the application opened&amp#27;[0m                     &amp#27;[90m# steps.LoginSteps.i_see_the_application_opened()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI click Login link&amp#27;[0m                                &amp#27;[90m# steps.LoginSteps.i_click_login_link()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI enter Username and Password&amp#27;[0m                     &amp#27;[90m# steps.LoginSteps.i_enter_username_and_password(io.cucumber.datatable.DataTable)&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI click Login buton&amp#27;[0m                               &amp#27;[90m# steps.LoginSteps.i_click_login_buton()&amp#27;[0m
+  &amp#27;[31mThen &amp#27;[0m&amp#27;[31mI should see the hello message on home screen&amp#27;[0m     &amp#27;[90m# steps.LoginSteps.i_should_see_the_hello_message_on_home_page()&amp#27;[0m
+      &amp#27;[31mjava.lang.AssertionError: Hello admin! expected [Hello admin!] but found [Home Page not opened]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at steps.LoginSteps.i_should_see_the_hello_message_on_home_page(LoginSteps.java:51)
+	at âœ½.I should see the hello message on home screen(file:///C:/Users/sanjay.pg/git/SeleniumFramework/src/test/java/features/CucumberFeature.feature:12)
+&amp#27;[0m
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 19928
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 26, 2020 6:23:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+java.io.FileNotFoundException: C:\Users\ramdas.prabhudesai\Desktop\EudemyFramework\TestData.xls (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at jxl.Workbook.getWorkbook(Workbook.java:213)
+	at jxl.Workbook.getWorkbook(Workbook.java:198)
+	at utilities.ExcelUtil.<init>(ExcelUtil.java:21)
+	at steps.TestInitialize.Initialize(TestInitialize.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:71)
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$0(TestNGCucumberRunner.java:116)
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:117)
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:113)
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)
+	at org.testng.TestNG.runSuites(TestNG.java:1028)
+	at org.testng.TestNG.run(TestNG.java:996)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]></system-err>
+  </testcase>
+  <testcase name="Login" classname="seleniumtest.LoginTest" time="4.517">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;link text&quot;,&quot;selector&quot;:&quot;Login&quot;}&#10;  (Session info: chrome=86.0.4240.111)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;WindowProNew&apos;, ip: &apos;10.0.4.4&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\sanjay.pg\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:62036}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}&#10;Session ID: e34429b5e4a62914ce98e839dca2975b&#10;*** Element info: {Using=link text, value=Login}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"link text","selector":"Login"}
+  (Session info: chrome=86.0.4240.111)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WindowProNew', ip: '10.0.4.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.111, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\sanjay.pg\AppData\...}, goog:chromeOptions: {debuggerAddress: localhost:62036}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: e34429b5e4a62914ce98e839dca2975b
+*** Element info: {Using=link text, value=Login}
+	at seleniumtest.LoginTest.Login(LoginTest.java:19)
+</failure>
+    <system-out><![CDATA[ INFO [main] (LoginTest.java:16)- Inside Login Test
+]]></system-out>
+    <system-err><![CDATA[&amp#27;[32m&amp#27;[1m?????????????????????????????????????????????????????????????????????????????????????&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m Share your Cucumber Report with your team at &amp#27;[36m&amp#27;[1m&amp#27;[4mhttps://reports.cucumber.io&amp#27;[0m          &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m Activate publishing with one of the following:                                    &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m                                                                                   &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m src/test/resources/cucumber.properties:          &amp#27;[36mcucumber.publish.enabled&amp#27;[0m=&amp#27;[36mtrue&amp#27;[0m    &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m src/test/resources/junit-platform.properties:    &amp#27;[36mcucumber.publish.enabled&amp#27;[0m=&amp#27;[36mtrue&amp#27;[0m    &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m Environment variable:                            &amp#27;[36mCUCUMBER_PUBLISH_ENABLED&amp#27;[0m=&amp#27;[36mtrue&amp#27;[0m    &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m JUnit:                                           &amp#27;[36m@CucumberOptions&amp#27;[0m(publish = &amp#27;[36mtrue&amp#27;[0m) &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m                                                                                   &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m More information at &amp#27;[36mhttps://reports.cucumber.io/docs/cucumber-jvm&amp#27;[0m                 &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m                                                                                   &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m Disable this message with one of the following:                                   &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m                                                                                   &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m src/test/resources/cucumber.properties:          &amp#27;[36mcucumber.publish.quiet&amp#27;[0m=&amp#27;[36mtrue&amp#27;[0m      &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?&amp#27;[0m src/test/resources/junit-platform.properties:    &amp#27;[36mcucumber.publish.quiet&amp#27;[0m=&amp#27;[36mtrue&amp#27;[0m      &amp#27;[32m&amp#27;[1m?&amp#27;[0m
+&amp#27;[32m&amp#27;[1m?????????????????????????????????????????????????????????????????????????????????????&amp#27;[0m
+]]></system-err>
+  </testcase>
+</testsuite>

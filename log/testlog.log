@@ -56,3 +56,12 @@
 2020-10-26 19:20:50,402 - java.lang.String -INFO - Browser Initialized
 2020-10-26 19:22:30,868 - java.lang.String -INFO - URL Opened
 2020-10-26 19:22:32,114 - java.lang.String -INFO - Excel util Initialized
+2020-10-26 18:23:47,783 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 86.0.4240.22 (since Chrome 86 is installed in your machine)
+2020-10-26 18:23:47,940 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-10-26 18:23:48,458 - io.github.bonigarcia.wdm.online.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip
+2020-10-26 18:23:48,781 - io.github.bonigarcia.wdm.online.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2020-10-26 18:23:48,928 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\sanjay.pg\.m2\repository\webdriver\chromedriver\win32\86.0.4240.22\chromedriver.exe
+2020-10-26 18:23:56,984 - java.lang.String -INFO - Browser Initialized
+2020-10-26 18:24:02,770 - java.lang.String -INFO - URL Opened
+2020-10-26 18:24:05,210 - java.lang.String -INFO - Home page opened
+2020-10-26 18:24:07,069 - java.lang.String -INFO - Inside Login Test
